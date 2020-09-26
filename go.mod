@@ -1,4 +1,4 @@
-module wxofficialaccount
+module github.com/cdfmlr/wxofficialaccount
 
 go 1.13
 
