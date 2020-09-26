@@ -23,7 +23,11 @@ import (
     "github.com/cdfmlr/wxofficialaccount"
     "github.com/silenceper/wechat/v2/officialaccount/message"
 )
+```
 
+Get a WxOfficialAccount object:
+
+```go
 w := NewWxOfficialAccount("appid", "appsecret", "token")
 ```
 
